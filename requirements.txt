@@ -1,0 +1,6 @@
+chromadb
+langchain
+langchain-community
+langchain-text-splitters
+unstructured
+unstructured[all-docs]
