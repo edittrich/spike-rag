@@ -79,6 +79,6 @@ if __name__ == "__main__":
     embedd_pdf("Warhammer40k_Core_Rules.pdf")
 
     retrieve("What are the 5 pillars of global cooperation?")
-    retrieve("Who are the  Chaos Gods in Warhammer 40k?")
+    retrieve("Who are the Chaos Gods in Warhammer 40k?")
 
     vector_db.delete_collection()
